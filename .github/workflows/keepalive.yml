@@ -9,7 +9,7 @@ jobs:
   keepalive:
     runs-on: ubuntu-latest
     env:
-      URL: "https://xyu8800-luckss.hf.space/"
+      URL: "https://xyu8800-lu889.hf.space/"
       MAX_ATTEMPTS: 3
       BASE_SLEEP: 5
     steps:
